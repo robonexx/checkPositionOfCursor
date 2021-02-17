@@ -24,9 +24,9 @@ canvasE.addEventListener("mousedown", function(e) {
 showXY.innerHTML = `
     <div class="xyPos">
     &nbsp;
-    <b>X-COORDINATES&nbsp;:</b>&nbsp;${e.clientX}
+    <b>X-COORDINATE&nbsp;:</b>&nbsp;${e.clientX}
     &nbsp;
-    <b>Y-COORDINATES&nbsp;:</b>&nbsp;${e.clientY}
+    <b>Y-COORDINATE&nbsp;:</b>&nbsp;${e.clientY}
     &nbsp;&nbsp;
     </div>
   `;
